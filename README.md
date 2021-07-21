@@ -1,1 +1,3 @@
 # globaltest
+hi
+
